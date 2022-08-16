@@ -8,6 +8,13 @@ body {
 
 }
 
+.principal {
+	background: #CCCCCC
+}
+
+.itens{
+	font-style: italic;
+}
 p {
 	font-size: 20px;
 	text-align: center;
@@ -20,4 +27,7 @@ em strong {
 #missao {
 	color: #8B0000
 
+}
+.beneficios{
+	background: #FFFFFF;
 }
